@@ -34,7 +34,7 @@
       "name": "Debug Test",
       "type": "node",
       "request": "launch",
-      "program": "${workspaceFOlder}/node_modules/.bin/_mocha",
+      "program": "${workspaceFolder}/node_modules/.bin/_mocha",
       "args": [
         "--colors",
         "--require", "ts-node/register",
