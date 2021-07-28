@@ -20,5 +20,6 @@
     "rootDir": "src",
     "pretty": false,
     "sourceMap": true
-  }
+  },
+  "include": ["src"]
 }
