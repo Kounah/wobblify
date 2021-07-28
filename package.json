@@ -1,6 +1,6 @@
 {
   "name": "wobblify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "sometimes being ironic requires more wobble",
   "main": "dist/index.js",
   "scripts": {
